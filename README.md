@@ -39,17 +39,6 @@
 
 ---
 
-## `> ls ~/featured`
-
-| Project | Built with | What it is |
-|---|---|---|
-| **Nyauli** | GraphQL Federation · Kubernetes · Drizzle | Restaurant SaaS platform; I architected the backend and DevOps |
-| **HireLibra** | React · Django · PostgreSQL · AWS | Hiring portal for candidates and recruiters |
-| [**Laliguras**](https://github.com/Rabin18Glan/laliguras) | Next.js · Tailwind | E-commerce store for a local bee farm |
-| [**MERN Chat**](https://github.com/Rabin18Glan/MERN-simple-chat-app) | React · Node · Socket.io | Real-time chat app |
-
----
-
 ## `> stack`
 
 <div align="center">
