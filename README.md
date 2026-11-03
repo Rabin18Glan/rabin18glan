@@ -1,2 +1,71 @@
-# rabin21glan
-github profile
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1a27,50:0b6e5c,100:00f0a8&height=200&section=header&text=Rabin%20Glan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=from%20Raksirang%20%E2%86%92%20to%20production&descAlignY=60&descSize=18" width="100%" alt="Rabin Glan" />
+
+<a href="https://rabinglan.com.np">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00F0A8&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+cargo+new+next_chapter+%F0%9F%A6%80;%24+echo+%22Where+you+come+from+doesn%27t+define+you%22" alt="typing intro" />
+</a>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rabinglan.com.np-00f0a8?style=for-the-badge&labelColor=0f1a27)](https://rabinglan.com.np)
+
+</div>
+
+---
+
+## `> boot sequence`
+
+```text
+[  OK  ] Origin ............ Raksirang, a remote village in Nepal
+[  OK  ] Passion ........... music 🎵 → code 💻
+[  OK  ] Degree ............ BSc. CSIT
+[  OK  ] Day job ........... Full Stack Developer @ Truenary Solutions
+[ WARN ] Curiosity ......... learning Rust 🦀
+[  OK  ] System ............ ready for your idea_
+```
+
+---
+
+## `> git log --oneline`
+
+```text
+* 🦀 2025 Oct   Started Rust: safe, stable backend systems
+* 🚀 2025 Aug   Full Stack Developer @ Truenary (+ part-time @ US TechWorks Global)
+* 🧪 2025       Internships: Kutumba Tech, then Truenary
+* ⚡ 2024       Laravel, then Next.js
+* 📱 2023       Own projects, Flutter, Node.js
+* 🌐 2022 Apr   Web dev: HTML, CSS, JS, React
+* 🔥 2022 Jan   Hello, World! (C / C++)
+```
+
+---
+
+## `> ls ~/featured`
+
+| Project | Built with | What it is |
+|---|---|---|
+| **Nyauli** | GraphQL Federation · Kubernetes · Drizzle | Restaurant SaaS platform; I architected the backend and DevOps |
+| **HireLibra** | React · Django · PostgreSQL · AWS | Hiring portal for candidates and recruiters |
+| [**Laliguras**](https://github.com/Rabin18Glan/laliguras) | Next.js · Tailwind | E-commerce store for a local bee farm |
+| [**MERN Chat**](https://github.com/Rabin18Glan/MERN-simple-chat-app) | React · Node · Socket.io | Real-time chat app |
+
+---
+
+## `> stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter,nodejs,django,laravel,graphql,postgres,mysql,docker,kubernetes,aws,rust&theme=dark" alt="tech stack" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Have a project in mind?
+
+[![Portfolio](https://img.shields.io/badge/🌐_rabinglan.com.np-0f1a27?style=for-the-badge)](https://rabinglan.com.np)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0a8,50:0b6e5c,100:0f1a27&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
