@@ -19,7 +19,6 @@
 [  OK  ] Degree ............ BSc. CSIT
 [  OK  ] Day job ........... Full Stack Developer @ Truenary Solutions
 [ WARN ] Curiosity ......... learning Rust 🦀
-[  OK  ] System ............ ready for your idea_
 ```
 
 ---
@@ -53,7 +52,5 @@
 ### Have a project in mind?
 
 [![Portfolio](https://img.shields.io/badge/🌐_rabinglan.com.np-0f1a27?style=for-the-badge)](https://rabinglan.com.np)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0a8,50:0b6e5c,100:0f1a27&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
