@@ -29,7 +29,7 @@
 
 ```text
 * 🦀 2025 Oct   Started Rust: safe, stable backend systems
-* 🚀 2025 Aug   Full Stack Developer @ Truenary (+ part-time @ US TechWorks Global)
+* 🚀 2025 Aug   Full Stack Developer @ Truenary
 * 🧪 2025       Internships: Kutumba Tech, then Truenary
 * ⚡ 2024       Laravel, then Next.js
 * 📱 2023       Own projects, Flutter, Node.js
