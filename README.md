@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1a27,50:0b6e5c,100:00f0a8&height=200&section=header&text=Rabin%20Glan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=from%20Raksirang%20%E2%86%92%20to%20production&descAlignY=60&descSize=18" width="100%" alt="Rabin Glan" />
 
 <a href="https://rabinglan.com.np">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00F0A8&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+cargo+new+next_chapter+%F0%9F%A6%80" alt="typing intro" />
