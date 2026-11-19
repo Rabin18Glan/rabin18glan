@@ -1,11 +1,11 @@
+
 <div align="center">
 
-
 <a href="https://rabinglan.com.np">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00F0A8&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+cargo+new+next_chapter+%F0%9F%A6%80" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F5A623&center=true&vCenter=true&width=700&height=50&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+cargo+new+next_chapter+%F0%9F%A6%80" alt="typing intro" />
 </a>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rabinglan.com.np-00f0a8?style=for-the-badge&labelColor=0f1a27)](https://rabinglan.com.np)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rabinglan.com.np-F5A623?style=for-the-badge&labelColor=0B101A)](https://rabinglan.com.np)
 
 </div>
 
@@ -51,6 +51,6 @@
 
 ### Have a project in mind?
 
-[![Portfolio](https://img.shields.io/badge/🌐_rabinglan.com.np-0f1a27?style=for-the-badge)](https://rabinglan.com.np)
+[![Portfolio](https://img.shields.io/badge/🌐_rabinglan.com.np-F5A623?style=for-the-badge&labelColor=0B101A)](https://rabinglan.com.np)
 
 </div>
