@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,express,flutter,django,rust&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=rust,react,nextjs,express,flutter,django&theme=dark" alt="tech stack" />
 
 </div>
 
